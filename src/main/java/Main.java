@@ -1,3 +1,5 @@
 public class Main {
-    //  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
+    public static void main(String[] args){
+
+    }
 }
